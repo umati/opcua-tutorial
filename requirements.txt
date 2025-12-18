@@ -1,5 +1,5 @@
 aiofiles==0.8.0
-aiosqlite==0.17.0
+aiosqlite==0.22.0
 asyncua==1.1.6
 cffi==1.17.1
 cryptography==44.0.3
