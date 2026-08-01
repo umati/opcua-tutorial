@@ -4,7 +4,7 @@ asyncua==2.0.1
 cffi==2.1.0
 cryptography==48.0.1
 pycparser==3.0
-pyOpenSSL==26.3.0
+pyOpenSSL==26.4.0
 python-dateutil==2.9.0.post0
 pytz==2026.3.post1
 six==1.17.0
