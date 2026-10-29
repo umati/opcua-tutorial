@@ -6,7 +6,7 @@ cryptography==50.0.2
 pycparser==3.11
 pyOpenSSL==26.4.0
 python-dateutil==3.0.0
-pytz==2026.5
+pytz==2026.6
 six==1.17.0
 sortedcontainers==2.4.0
 typing-extensions==4.16.0
